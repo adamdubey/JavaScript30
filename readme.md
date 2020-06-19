@@ -1,14 +1,11 @@
 ﻿![](https://javascript30.com/images/JS3-social-share.png)
 
-# JavaScript30
+# JavaScript30: Project Gallery 👨‍🎨
 
-Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
-
+Starter Files + Completed solutions for the JavaScript 30 Day Challenge presented by Wes Bos.
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
-## Gallery 🎨
-
-Click [here](https://adamdubey.github.io/JavaScript30) to view a gallery of my completed courses!
+**Click [here](https://adamdubey.github.io/JavaScript30) to view a gallery of my completed projects!**
 
 ## A note on Pull Requests
 
