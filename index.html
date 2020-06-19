@@ -1,0 +1,20 @@
+---
+layout: default
+title: JavaScript30 Challenge Gallery
+---
+
+<h1>30 Days of JavaScript: My Gallery 🎨</h1>
+
+<p>
+  Yo! 🖖 <br />
+  Welcome to my Gallery, which follows the
+  <a href="https://javascript30.com/">JavaScript30 Day challenges</a>. Check out
+  <a href="https://adamdubey.github.io/">this blog post</a> for more
+  information!
+</p>
+
+<h2>Projects</h2>
+
+{% for exercise in site.exercises %}
+<h3><a href="{{ forloop.index }}/index.html">{{ exercise }}</a></h3>
+{% endfor %}
