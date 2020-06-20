@@ -3,7 +3,7 @@ show_downloads: false
 
 exercises:
   - JavaScript Drum Kit
-  # - JS and CSS Clock
+  - JS and CSS Clock
   # - CSS Variables
   # - Array Cardio Day 1
   # - Flex Panel Gallery
