@@ -24,7 +24,7 @@ exercises:
   - Speech Detection
   - Geolocation
   - Follow Along Link Highlighter
-  # - Speech Synthesis
+  - Speech Synthesis
   # - Sticky Nav
   # - Event Capture, Propagation, Bubbling and Once
   # - Stripe Follow Along Nav
